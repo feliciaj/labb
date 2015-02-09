@@ -1,1 +1,2 @@
 c:\users\felicia.joneby\documents\visual studio 2013\Projects\ByggserverLab\ByggserverLab\bin\Debug\ByggserverLab.exe.config
+C:\Users\felicia.joneby\Documents\labb\ByggserverLab\ByggserverLab\bin\Debug\ByggserverLab.exe.config
